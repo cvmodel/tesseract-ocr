@@ -7,10 +7,36 @@ verify_ssl = true
 
 [packages]
 
+pytesseract = "==0.2.5"
+pillow = "==5.3.0"
+requests = "==2.19.1"
+toml = "==0.10.0"
+chardet = "==3.0.4"
+idna = "==2.7"
+protobuf = "==3.6.1"
+grpcio = "==1.15.0"
+"enum34" = "==1.1.6"
+"urllib3" = "==1.23"
+werkzeug = "==0.14.1"
+markupsafe = "==1.0"
+tqdm = "==4.26.0"
+future = "==0.16.0"
+googleapis-common-protos = "==1.5.3"
+certifi = "==2018.8.24"
+"jinja2" = "==2.10"
+flask = "==1.0.2"
+clarifai = "==2.3.2"
+configparser = "==3.5.0"
+click = "==7.0"
+itsdangerous = "==0.24"
+jsonschema = "==2.6.0"
+gevent = "*"
+numpy = "*"
 
 
 [dev-packages]
 
+pylint = "*"
 
 
 [requires]
