@@ -1,7 +1,5 @@
 ## Optical Character Recognition
 
-[CVPM-Available](https://hub.autoai.org)
-
 ### Test
 
 ```
